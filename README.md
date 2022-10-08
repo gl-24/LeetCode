@@ -1,4 +1,4 @@
-# Problem-Solving
+# LeetCode
 
 <h2>Roadmap</h2>
 
